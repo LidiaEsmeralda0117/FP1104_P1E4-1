@@ -4,3 +4,8 @@ Ada Lovelace comenzó a estudiar en la Universidad de Londres tutelada por Augus
 Ada Lovelace fue pionera en sus estudios y en su época, y aunque han sido varias las mujeres que han realizado aportaciones a este campo, sólo ella ha conseguido que un lenguaje de programación lleve su nombre.
 A los veinte años Ada Lovelace contrajo matrimonio con William King, Conde de Lovelace. Nace de ahí el nombre de Lady Ada Lovelace, por el que es conocida en la actualidad. A su lado tuvo tres hijos: Bryon Noel Byron, Annabella y Ralph Gordon. 
 A los 29 años enfermó gravemente. Tras muchos años de sufrimiento Augusta Ada Byron falleció en Londres el 27 de noviembre de 1852. Byron mantuvo una intensa relación a distancia con su hija y bautizó con el nombre de Ada a muchas de las heroínas de su obra poética. Su cuerpo fue enterrado junto al de su padre al que nunca conoció.
+
+Flor 
+100-3/(sqrt(x^2+y^2))+sin(sqrt(x^2+y^2))+sqrt(200-
+(x^2+y^2)+10*sin(x)+10sin(y))/1000, x is from -15 to 15, y is from -15 to 15, z is from
+90 to 101
